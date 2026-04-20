@@ -6,7 +6,7 @@ export default function Hero() {
     >
       <div className="absolute inset-0 z-0">
         <img
-          src="/fundohero.jpeg"
+          src={`${import.meta.env.BASE_URL}fundohero.jpeg`}
           alt="Ambiente Terapêutico Dr. Antônio Eliezer"
           className="absolute inset-0 w-full h-full object-cover opacity-80"
           loading="eager"

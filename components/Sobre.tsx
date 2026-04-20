@@ -12,7 +12,7 @@ export default function Sobre() {
               className="aspect-[3/4] rounded-t-[10rem] rounded-b-lg overflow-hidden relative shadow-2xl"
             >
               <img
-                src="/eliezerjr3.jpeg"
+                src={`${import.meta.env.BASE_URL}eliezerjr3.jpeg`}
                 alt="Eliezer Jr. - Psicólogo Clínico"
                 className="absolute inset-0 w-full h-full object-cover hover:scale-105 transition-transform duration-1000"
                 loading="lazy"
