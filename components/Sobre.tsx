@@ -38,7 +38,7 @@ export default function Sobre() {
               className="font-serif text-4xl md:text-5xl text-brand-moss mb-8 leading-tight"
             >
               Escuta ativa aliada à <br />
-              <span className="italic text-brand-sage">técnica e acolhimento.</span>
+              <span className="italic text-brand-sage">técnica e ao acolhimento.</span>
             </h2>
 
             <div className="space-y-6 text-brand-stone/80 font-light text-lg leading-relaxed">
