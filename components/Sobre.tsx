@@ -43,14 +43,14 @@ export default function Sobre() {
 
             <div className="space-y-6 text-brand-stone/80 font-light text-lg leading-relaxed">
               <p>
-                Olá, sou o Eliezer Jr. Acredito que o processo terapêutico é uma
+                Acredito que o processo terapêutico é uma
                 jornada de descoberta e fortalecimento. Meu papel é oferecer o
                 suporte técnico e humano para que você possa enfrentar seus
                 desafios com clareza.
               </p>
               <p>
                 Com sólida formação em Psicologia e Clínica Psicanalítica, minha
-                atuação é pauta na ética e na singularidade de cada paciente.
+                atuação é pautada na ética e na singularidade de cada paciente.
                 Busco integrar a profundidade da investigação psíquica com o
                 pragmatismo necessário para a mudança.
               </p>
