@@ -29,13 +29,12 @@ export default function Hero() {
             id="hero-heading"
             className="font-serif text-5xl md:text-7xl text-brand-moss leading-[1.1] mb-8 font-light"
           >
-            Psicoterapia para viver <br />
-            com mais <span className="italic font-medium">clareza</span>, <br />
+            Psicoterapia para viver com mais <span className="italic font-medium">clareza</span>, <br />
             leveza e autonomia.
           </h1>
 
           <p className="text-lg text-brand-stone/70 leading-relaxed mb-10 font-light">
-            Atendimento online e presencial em Altamira-PA para ansiedade,
+            Atendimento online para ansiedade,
             estresse, relacionamentos e autoconhecimento, com escuta ética e
             acolhedora.
           </p>
@@ -78,13 +77,6 @@ export default function Hero() {
             className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 glass p-6 rounded-t-full rounded-b-full shadow-soft animate-float"
             aria-label="Frase inspiradora"
           >
-            <div className="w-12 h-12 bg-brand-sage/20 rounded-full flex items-center justify-center text-brand-moss mx-auto mb-3">
-              <i className="fas fa-feather-alt" aria-hidden="true" />
-            </div>
-            <p className="text-center font-serif text-brand-moss italic text-lg px-4 whitespace-nowrap">
-              &quot;A cura pela palavra&quot;
-            </p>
-          </div>
         </div>
       </div>
     </section>
