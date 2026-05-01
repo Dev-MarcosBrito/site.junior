@@ -51,7 +51,8 @@ export default function Sobre() {
               <p>
                 Com sólida formação em Psicologia e Clínica Psicanalítica, minha
                 atuação é pautada na ética e na singularidade de cada paciente.
-                Busco integrar a profundidade da investigação da mente a prática necessária para a mudança.
+                Busco integrar a profundidade da investigação psíquica com o
+                pragmatismo necessário para a mudança.
               </p>
             </div>
 

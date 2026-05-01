@@ -25,8 +25,12 @@ export default function Hero() {
             </span>
           </div>
 
-          <h1 id="hero-heading" className="font-serif text-5xl md:text-7xl text-brand-moss leading-[1.1] mb-8 font-light">
-            Psicoterapia para viver com mais <span className="italic font-medium">clareza</span>, leveza e autonomia.
+          <h1
+            id="hero-heading"
+            className="font-serif text-5xl md:text-7xl text-brand-moss leading-[1.1] mb-8 font-light"
+          >
+            Psicoterapia para viver com mais <span className="italic font-medium">clareza</span>, <br />
+            leveza e autonomia.
           </h1>
 
           <p className="text-lg text-brand-stone/70 leading-relaxed mb-10 font-light">
