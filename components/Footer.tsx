@@ -31,7 +31,7 @@ export default function Footer() {
             </li>
             <li>
               <i className="fas fa-map-marker-alt w-6" aria-hidden="true" />
-              <span>Altamira-PA | Atendimento Online</span>
+              <span>Atendimento Online</span>
             </li>
           </ul>
         </div>
