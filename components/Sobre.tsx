@@ -19,7 +19,7 @@ export default function Sobre() {
               />
               <div className="absolute bottom-0 left-0 bg-brand-sand/90 backdrop-blur p-6 w-full border-t border-brand-moss/10">
                 <p className="font-serif text-2xl text-brand-moss italic">
-                  Psicólogo Clinico
+                  Psicólogo Clínico
                 </p>
               </div>
             </div>
